@@ -1,4 +1,4 @@
-document.addEventListener("keydown", key());
+document.addEventListener("keypress", key());
 
 function key() {
     console.log("down")
