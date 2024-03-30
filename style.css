@@ -1,12 +1,14 @@
 body {
-    background-color: #f57b42;
+    background-color: chocolate;
 }
 #fox {
-    height: 20px;
-    width: 20px;
-    border: #2b205a;
-    background-color: #6942f5;
     position: relative;
-    left: 250px;
-    top: 250px;
+    height: 228px;
+    width: 228px;
+    background-image: url(unnamed.png);
+    border-radius: 100%;
+    background-position-x: -22px;
+    background-position-y: -8px;
+    left: 50px;
+    top: 50px;
 }
