@@ -11,4 +11,5 @@ body {
     background-position-y: -8px;
     left: 50px;
     top: 50px;
+    transition: linear 0.2s;
 }
